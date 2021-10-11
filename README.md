@@ -1,11 +1,12 @@
 # Keyboard to LED 
 
-In this code, 4x4 keypad is used in order to control the tri-color LED.\ 
-Pushing each of the buttons 0-7 should light the LED with the color specified below.\
-When the button is released, the LED should remain lit.\
-Pressing any of the other buttons (9,A,B,C,D,*,#) should not affect the LED.\
+In this code, 4x4 keypad is used in order to control the tri-color LED.
 
-0:Black, 1:Blue, 2:Green, 3:Cyan, 4:Red, 5:Magenta, 6:Yellow, 7: White\
+Pushing each of the buttons 0-7 should light the LED with the color specified below.
+When the button is released, the LED should remain lit
+Pressing any of the other buttons (9,A,B,C,D,*,#) should not affect the LED
+
+0:Black, 1:Blue, 2:Green, 3:Cyan, 4:Red, 5:Magenta, 6:Yellow, 7: White
 
 
 <img width="735" alt="Screen Shot 2020-06-02 at 8 12 32 PM" src="https://user-images.githubusercontent.com/57555013/83581650-6e2fb680-a50d-11ea-88a5-1b197fd74a09.png">
