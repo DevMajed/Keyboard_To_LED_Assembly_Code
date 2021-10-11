@@ -1,6 +1,6 @@
 # Keyboard to LED 
 
-In this code, 4x4 keypad is used in order to control the tri-color LED .\ 
+In this code, 4x4 keypad is used in order to control the tri-color LED.\ 
 Pushing each of the buttons 0-7 should light the LED with the color specified below.\
 When the button is released, the LED should remain lit.\
 Pressing any of the other buttons (9,A,B,C,D,*,#) should not affect the LED.\
